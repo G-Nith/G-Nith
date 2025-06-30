@@ -21,8 +21,10 @@ Hello! I'm a passionate **Front-End Developer** with a talent for creating engag
     </a>
 </p>
 
-<img src="https://github-readme-stats-theta-five-80.vercel.app/api/top-langs?username=G-Nith&count_private=true&layout=compact&langs_count=8&theme=github_dark_dimmed" width="38%" align="right" />
-
 ##
+<img src="https://github-readme-stats-theta-five-80.vercel.app/api/top-langs?username=G-Nith&count_private=true&layout=donut&langs_count=8&theme=github_dark_dimmed" width="30%" align="left" />
+<img src="https://i.imgur.com/3bzvn8E.png" width="65%" align="right" />
+
+
 [![](https://i.imgur.com/3bzvn8E.png)](https://imgur.com/a/5ftkEDW)
 
