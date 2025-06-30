@@ -23,8 +23,8 @@ Hello! I'm a passionate **Front-End Developer** with a talent for creating engag
 
 ##
 <div style="display: flex; flex-wrap: nowrap; gap: 2;">
-  <img src="https://github-readme-stats-theta-five-80.vercel.app/api/top-langs?username=G-Nith&count_private=true&layout=donut&langs_count=8&theme=github_dark_dimmed" style="width: 26%; object-fit: contain;" />
-  <img src="https://i.imgur.com/3bzvn8E.png" style="width: 70%; object-fit: contain;" />
+  <img src="https://github-readme-stats-theta-five-80.vercel.app/api/top-langs?username=G-Nith&count_private=true&layout=donut&langs_count=8&theme=github_dark_dimmed" style="width: 28%; object-fit: contain;" />
+  <img src="https://i.imgur.com/3bzvn8E.png" style="width: 68%; object-fit: contain;" />
 </div>
 <div style="clear: both;"></div>
 
