@@ -21,7 +21,7 @@ Hello! I'm a passionate **Front-End Developer** with a talent for creating engag
     </a>
 </p>
 
-<img src="https://github-readme-stats-theta-five-80.vercel.app/api?username=KnightedKestrel&show_icons=true&rank_icon=github&theme=github_dark_dimmed" width="52%" />
+<img src="https://github-readme-stats-theta-five-80.vercel.app/api?username=G-Nith&show_icons=true&rank_icon=github&theme=github_dark_dimmed" width="52%" />
 
 ##
 [![](https://i.imgur.com/3bzvn8E.png)](https://imgur.com/a/5ftkEDW)
