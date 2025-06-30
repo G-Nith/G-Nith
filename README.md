@@ -1,16 +1,25 @@
-## Hi there 👋
+<h3 align="center">Front-End Developer &amp; Full-Stack Hobbyist</h3>
 
-<!--
-**G-Nith/G-Nith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey!👋
+Hello! I'm a passionate **Front-End Developer** with a talent for creating engaging and user-friendly web applications. As a full-stack hobbyist, I love combining my front-end expertise with backend knowledge to build innovative projects, such as **Discord bots** that enhance community interaction and streamline user experiences.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,lua" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nuxt,vue,react,nodejs,discord,discordjs" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,sequelize" />
+    </a>
+</p>
+
+[![](https://i.imgur.com/3bzvn8E.png)](https://imgur.com/a/5ftkEDW)
+
